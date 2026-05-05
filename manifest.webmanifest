@@ -1,0 +1,20 @@
+{
+  "name": "오늘의 시작",
+  "short_name": "오늘",
+  "description": "오늘의 날씨와 주요 뉴스를 한눈에 보는 개인 시작 앱",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f8f4",
+  "theme_color": "#2e7d54",
+  "orientation": "portrait-primary",
+  "lang": "ko-KR",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
